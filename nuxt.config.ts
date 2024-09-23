@@ -84,7 +84,7 @@ export default defineNuxtConfig({
       port: 465,
       secure: true,
       host: "mail.privateemail.com",
-      auth: { user: "info@dencologistics.com", pass: process.env.EMAIL_SECRET },
+      auth: { user: $app.email, pass: process.env.EMAIL_SECRET },
     },
   },
   compatibilityDate: "2024-09-02",
