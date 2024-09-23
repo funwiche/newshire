@@ -8,7 +8,7 @@
         Welcome, <b>{{ user.profile.lname }} {{ user.profile.fname }}!</b> You
         are now logged in and ready to proceed with your application.
       </p>
-      <nuxt-link to="/" class="btn-outline">Go to application</nuxt-link>
+      <nuxt-link to="/apply" class="btn-outline">Go to application</nuxt-link>
     </div>
     <div v-else>
       <p class="mb-6">

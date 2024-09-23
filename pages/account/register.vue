@@ -33,6 +33,12 @@
         v-model="post.profile.fname"
         label="First name / Given names"
       />
+      <Textfield
+        required
+        type="tel"
+        v-model="post.profile.phone"
+        label="Phone number"
+      />
       <client-only>
         <Radio
           required
