@@ -31,9 +31,9 @@
             <section>
               <h2
                 v-if="route.name === 'apply'"
-                class="sm:text-lg font-black py-2"
+                class="sm:text-lg font-light py-2"
               >
-                {{ user.profile.fname }} {{ user.profile.lname }} (#{{
+                {{ user.profile.fname }} {{ user.profile.lname }} (# 00{{
                   user._id
                 }}
                 )
