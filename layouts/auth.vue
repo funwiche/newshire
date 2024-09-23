@@ -24,16 +24,13 @@
       </h1>
       <div class="p-4 sm:p-10">
         <div class="container">
-          <section v-if="!user" class="card p-4 sm:p-8">
-            <NuxtPage />
-          </section>
-          <section v-else-if="user.status" class="card p-4 sm:p-8">
+          <section v-if="!user || user.status" class="card p-4 sm:p-8">
             <NuxtPage />
           </section>
           <section v-else>
             <section>
               <h2
-                v-if="route.name === 'index'"
+                v-if="route.name === 'apply'"
                 class="sm:text-lg font-black py-2"
               >
                 {{ user.profile.fname }} {{ user.profile.lname }} (#{{
@@ -48,7 +45,7 @@
             <section class="card p-4 sm:p-8">
               <NuxtPage />
             </section>
-            <Apply v-if="user && route.name === 'index'" />
+            <Apply v-if="user && route.name === 'apply'" />
           </section>
         </div>
       </div>
