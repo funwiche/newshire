@@ -69,13 +69,10 @@
 
 <script setup lang="ts">
 const title = "Contact us";
-const api = "https://extranet-apis.onrender.com/privateemail";
 const loading = ref(false);
 const error = ref("");
 const success = ref("");
 const post = ref({
-  subject: "Contact us",
-  to: $app.email,
   name: "",
   phone: "",
   email: "",
@@ -85,12 +82,17 @@ const post = ref({
 async function submit() {
   loading.value = true;
   try {
-    await $fetch(api, { method: "POST", body: post.value });
+    const [res, err] = await $fetch("/api/mailer", {
+      method: "POST",
+      body: post.value,
+    });
+    if (err) return (error.value = err);
     post.value.name = "";
     post.value.email = "";
     post.value.phone = "";
+    post.value.location = "";
     post.value.message = "";
-    success.value = "Your message has been sent successfully!";
+    success.value = res;
   } catch (err) {
     error.value = "An error occurred. Please try again later!";
   } finally {
