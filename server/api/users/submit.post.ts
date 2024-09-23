@@ -10,13 +10,13 @@ export default defineEventHandler(async (event) => {
       user.profile.fname
     },</p><p>Thank you for applying to ${
       $app.name
-    }. We have received your application for admission, and it is currently under review.</p><p><b>Application Details:</b></p><ul><li>Program:&nbsp;<b>${
+    }. We have received your application for admission, and it is currently under review.</p><p><b>Application Details:</b></p><ul><li>Program:<b>&nbsp;${
       user.program.name
-    }</b></li><li>Application ID:&nbsp;<b>00${
+    }</b></li><li>Application ID:<b>&nbsp;00${
       user._id
-    }</b></li><li>Duration of Study:&nbsp;<b>${
+    }</b></li><li>Duration of Study:<b>&nbsp;${
       user.program.duration
-    } (Full-time)</b></li><li>Submission Date:&nbsp;<b>${new Date().toLocaleDateString()}</b></li></ul><p>Please keep this email for your records. If we need any additional information, we will contact you via email. You can check the status of your application at any time by logging into your&nbsp;<a href="${
+    } (Full-time)</b></li><li>Submission Date:<b>&nbsp;${new Date().toLocaleDateString()}</b></li></ul><p>Please keep this email for your records. If we need any additional information, we will contact you via email. You can check the status of your application at any time by logging into your&nbsp;<a href="${
       $app.baseUrl
     }">application portal</a>.</p><p>We appreciate your interest in joining ${
       $app.name
