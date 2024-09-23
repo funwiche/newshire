@@ -3,11 +3,11 @@
     <h2 class="sm:text-lg font-black py-2">Submit application</h2>
     <div class="card">
       <div
-        class="flex p-4 sm:p-8"
+        class="flex items-start gap-4 p-4 sm:p-8"
         :class="{ 'opacity-50 pointer-events-none': !completed }"
       >
-        <input type="checkbox" class="mt-1.5" v-model="check" />
-        <div class="pl-3 text-sm font-medium">
+        <input type="checkbox" class="mt-0.5" v-model="check" />
+        <div class="flex-1 text-sm font-medium">
           <p class="pb-4">
             I hereby declare on my honour that this information is correct and
             complete (e.g. all necessary documents are uploaded) and that I
