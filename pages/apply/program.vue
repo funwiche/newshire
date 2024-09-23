@@ -41,18 +41,19 @@ const post: any = ref({
     ? { ...user.value.program }
     : {
         name: "",
-        year: "2024 - 2025",
-        mode: "Full-time",
         degree: "",
         faculty: "",
+        year: "2024 - 2025",
+        mode: "Full-time",
+        duration: "",
       },
 });
 const items = computed(() =>
   courses.filter((el) => el.degree === post.value.program.degree)
 );
 function update(ev: any) {
-  post.value.name = {
-    ...post.value.name,
+  post.value.program = {
+    ...post.value.program,
     ...courses.find((el) => el.name == ev),
   };
 }
