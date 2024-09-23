@@ -18,7 +18,7 @@ export default defineEventHandler(async (event) => {
       user.program.duration
     } (Full-time)</b></li><li>Submission Date:<b>&nbsp;${new Date().toLocaleDateString()}</b></li></ul><p>Please keep this email for your records. If we need any additional information, we will contact you via email. You can check the status of your application at any time by logging into your&nbsp;<a href="${
       $app.baseUrl
-    }">application portal</a>.</p><p>We appreciate your interest in joining ${
+    }/apply">application portal</a>.</p><p>We appreciate your interest in joining ${
       $app.name
     } and look forward to reviewing your application.</p><p>If you have any questions or need assistance, please do not hesitate to contact our admissions office at ${
       $app.email
