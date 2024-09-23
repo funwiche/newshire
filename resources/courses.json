@@ -1,0 +1,1766 @@
+[
+  {
+    "name": "Anthropology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "anthropology",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Anthropology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "anthropology",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Anthropology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "anthropology",
+    "type": "research"
+  },
+  {
+    "name": "Archaeology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "archaeology",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Archaeology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "archaeology",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Archaeology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "archaeology",
+    "type": "research"
+  },
+  {
+    "name": "Architecture",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BArch",
+    "program": "Bachelor of Architecture (B.Arch.)",
+    "level": "bachelor",
+    "slug": "architecture",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Architecture",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MArch",
+    "program": "Master of Architecture (M.Arch.)",
+    "level": "masters",
+    "slug": "architecture",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Architecture",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "architecture",
+    "type": "research"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "artificial-intelligence",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Biochemistry",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "biochemistry",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Biochemistry",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "biochemistry",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Biochemistry",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "biochemistry",
+    "type": "research"
+  },
+  {
+    "name": "Biology",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "biology",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Biology",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "biology",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Biology",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "biology",
+    "type": "research"
+  },
+  {
+    "name": "Business Administration",
+    "faculty": "Business",
+    "degree": "BBA",
+    "program": "Bachelor of Business Administration (B.BA.)",
+    "level": "bachelor",
+    "slug": "Business-Administration",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Business Administration",
+    "faculty": "Business",
+    "degree": "MBA",
+    "program": "Master of Business Administration (M.BA.)",
+    "level": "masters",
+    "slug": "Business-Administration",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Chemistry",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "chemistry",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Chemistry",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "chemistry",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Chemistry",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "chemistry",
+    "type": "research"
+  },
+  {
+    "name": "Civil Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "civil-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Civil Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "civil-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Civil Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "civil-engineering",
+    "type": "research"
+  },
+  {
+    "name": "Classics",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "classics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Classics",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "classics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Classics",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "classics",
+    "type": "research"
+  },
+  {
+    "name": "Cognitive and Behavioural Ecology",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "cognitive-and-behavioural-ecology",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Cognitive and Behavioural Ecology",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "cognitive-and-behavioural-ecology",
+    "type": "research"
+  },
+  {
+    "name": "Commerce",
+    "faculty": " Business",
+    "degree": "BComm",
+    "program": "Bachelor of Commerce (B.Comm.)",
+    "level": "bachelor",
+    "slug": "commerce",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Communication studies",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "communication-studies",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Computational chemistry",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "computational-chemistry",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Computational mathematics",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "computational-mathematics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Computer Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "computer-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Computer Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "computer-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Computer Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "computer-engineering",
+    "type": "research"
+  },
+  {
+    "name": "Computer science",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "computer-science",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Computer science",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "computer-science",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Computer science",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "computer-science",
+    "type": "research"
+  },
+  {
+    "name": "Computer science (data centric computing)",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "computer-science-data-centric-computing",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Computer science (smart systems)",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "computer-science-smart-systems",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Computer science (visual computing and games)",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "computer-science-visual-computing-and-games",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Creative Writing",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "creative-writing",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Criminology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "criminology",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Data Science",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "sata-science",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Dental Hygiene and Therapy",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "dental-hygiene-and-therapy",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Dental Surgery",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "BDS",
+    "program": "Bachelor of Dental Surgery (BDS)",
+    "level": "bachelor",
+    "slug": "dental-surgery",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Dental Surgery",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "dental-surgery",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Dental Surgery",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "dental-surgery",
+    "type": "research"
+  },
+  {
+    "name": "Doctor of Medicine",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "MD",
+    "program": "Doctor of Medicine (M.D.)",
+    "level": "bachelor",
+    "slug": "doctor-of-medicine",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Doctor of Pharmacy",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "DPharm",
+    "program": "Doctor of Pharmacy (D.Pharm.)",
+    "level": "bachelor",
+    "slug": "doctor-of-pharmacy",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Earth sciences",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "earth-sciences",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Earth sciences",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "earth-sciences",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Earth sciences",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "earth-sciences",
+    "type": "research"
+  },
+  {
+    "name": "Economics",
+    "faculty": "Business",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "economics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Economics",
+    "faculty": "Business",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "economics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Economics",
+    "faculty": "Business",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "economics",
+    "type": "research"
+  },
+  {
+    "name": "Education",
+    "faculty": "Education",
+    "degree": "BEd",
+    "program": "Bachelor of Education (B.Ed.)",
+    "level": "bachelor",
+    "slug": "education",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Education",
+    "faculty": "Education",
+    "degree": "MEd",
+    "program": "Master of Education (M.Ed.)",
+    "level": "masters",
+    "slug": "education",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Education",
+    "faculty": "Education",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "education",
+    "type": "research"
+  },
+  {
+    "name": "Electrical Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "electrical-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Electrical Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "electrical-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Electrical Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "electrical-engineering",
+    "type": "research"
+  },
+  {
+    "name": "English",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "english",
+    "type": "undergraduate"
+  },
+  {
+    "name": "English",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "english",
+    "type": "postgraduate"
+  },
+  {
+    "name": "English",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "english",
+    "type": "research"
+  },
+  {
+    "name": "Environment and Sustainability",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "environment-and-sustainability",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Environment and Sustainability",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "environment-and-sustainability",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Environment and Sustainability",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "environment-and-sustainability",
+    "type": "research"
+  },
+  {
+    "name": "Environmental Humanities",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "environmental-humanities",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Environmental Humanities",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "environmental-humanities",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Environmental Physics",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "environmental-physics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Environmental Physics",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "environmental-physics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Environmental Physics",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "environmental-physics",
+    "type": "research"
+  },
+  {
+    "name": "Environmental Science",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "environmental-science",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Environmental Science",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "environmental-science",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Environmental Science",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "environmental-science",
+    "type": "research"
+  },
+  {
+    "name": "Environmental Systems Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "environmental-systems-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Film studies",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "film-studies",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Fine Arts",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BFA",
+    "program": "Bachelor of Fine Arts (B.FA.)",
+    "level": "bachelor",
+    "slug": "fine-arts",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Fine Arts",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MFA",
+    "program": "Master of Fine Arts (M.FA.)",
+    "level": "masters",
+    "slug": "fine-arts",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Fisheries Science",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "fisheries-science",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Fisheries Science",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "fisheries-science",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Fisheries Science",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "fisheries-science",
+    "type": "research"
+  },
+  {
+    "name": "Food Safety",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "food-safety",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Food Science",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "food-science",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Food Science",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "food-science",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Food Science",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "food-science",
+    "type": "research"
+  },
+  {
+    "name": "French",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "french",
+    "type": "undergraduate"
+  },
+  {
+    "name": "French",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "french",
+    "type": "postgraduate"
+  },
+  {
+    "name": "French",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "french",
+    "type": "research"
+  },
+  {
+    "name": "Gender Studies",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "Gender-studies",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Gender Studies",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "Gender-studies",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Gender Studies",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "Gender-studies",
+    "type": "research"
+  },
+  {
+    "name": "Geographic Information Sciences",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "geographic-information-sciences",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Geography",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "geography",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Geography",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "geography",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Geography",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "geography",
+    "type": "research"
+  },
+  {
+    "name": "Health Ethics",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "health-ethics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "History",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "history",
+    "type": "undergraduate"
+  },
+  {
+    "name": "History",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "history",
+    "type": "postgraduate"
+  },
+  {
+    "name": "History",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "history",
+    "type": "research"
+  },
+  {
+    "name": "Human Biosciences",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "human-biosciences",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Human Biosciences",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "human-biosciences",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Human Biosciences",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "human-biosciences",
+    "type": "research"
+  },
+  {
+    "name": "Humanities",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "humanities",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Humanities",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "humanities",
+    "type": "research"
+  },
+  {
+    "name": "Law",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "LLB",
+    "program": "Bachelor of Laws (LL.B.)",
+    "level": "bachelor",
+    "slug": "law",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Law",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "LLM",
+    "program": "Master of Laws (LL.M.)",
+    "level": "masters",
+    "slug": "law",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Law",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "law",
+    "type": "research"
+  },
+  {
+    "name": "Linguistics",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "linguistics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Linguistics",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "linguistics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Linguistics",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "linguistics",
+    "type": "research"
+  },
+  {
+    "name": "Management",
+    "faculty": "Business",
+    "degree": "BMS",
+    "program": "Bachelor of Management Studies (B.MS.)",
+    "level": "bachelor",
+    "slug": "management",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Management",
+    "faculty": "Business",
+    "degree": "MMS",
+    "program": "Master of Management Studies (M.MS.)",
+    "level": "masters",
+    "slug": "management",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Management",
+    "faculty": "Business",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "management",
+    "type": "research"
+  },
+  {
+    "name": "Marine Biology",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "marine-biology",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Marine Biology",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "marine-biology",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Marine Biology",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "marine-biology",
+    "type": "research"
+  },
+  {
+    "name": "Mathematics",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "mathematics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Mathematics",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "mathematics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Mathematics",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "mathematics",
+    "type": "research"
+  },
+  {
+    "name": "Mathematics and Statistics",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "mathematics-and-statistics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Mathematics and Statistics",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "mathematics-and-statistics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Mathematics and Statistics",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "mathematics-and-statistics",
+    "type": "research"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "mechanical-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "mechanical-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "mechanical-engineering",
+    "type": "research"
+  },
+  {
+    "name": "Mechatronics Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "mechatronics-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Mechatronics Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "mechatronics-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Mechatronics Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "mechatronics-engineering",
+    "type": "research"
+  },
+  {
+    "name": "Medical Sciences",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "medical-sciences",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Medical Sciences",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "medical-sciences",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Medicine",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "medicine",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Medicine",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "medicine",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Medicine and Surgery",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "BMed",
+    "program": "Bachelor of Medicine and Surgery (B.Med.)",
+    "level": "bachelor",
+    "slug": "medicine-and-surgery",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Music",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "music",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Music",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "music",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Music Education",
+    "faculty": "Education",
+    "degree": "BEd",
+    "program": "Bachelor of Education (B.Ed.)",
+    "level": "bachelor",
+    "slug": "music-education",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Nursing",
+    "faculty": "Health and Medicine",
+    "degree": "BSN",
+    "program": "Bachelor in Nursing (B.SN.)",
+    "level": "bachelor",
+    "slug": "nursing",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Nursing",
+    "faculty": "Health and Medicine",
+    "degree": "MSN",
+    "program": "Master in Nursing (M.SN.)",
+    "level": "masters",
+    "slug": "nursing",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Nursing",
+    "faculty": "Health and Medicine",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "nursing",
+    "type": "research"
+  },
+  {
+    "name": "Occupational Health and Safety",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "MOHS",
+    "program": "Master of Occupational Health and Safety (MOHS)",
+    "level": "masters",
+    "slug": "occupational-health-and-safety",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Oil and Gas Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "oil-and-gas-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Oil and Gas Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "oil-and-gas-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Oil and Gas Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "oil-and-gas-engineering",
+    "type": "research"
+  },
+  {
+    "name": "Pharmacy",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "BPharm",
+    "program": "Bachelor of Pharmacy (B.Pharm.)",
+    "level": "bachelor",
+    "slug": "pharmacy",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Pharmacy",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "MPharm",
+    "program": "Master of Pharmacy (M.Pharm.)",
+    "level": "masters",
+    "slug": "pharmacy",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Pharmacy",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "pharmacy",
+    "type": "research"
+  },
+  {
+    "name": "Philosophy",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "philosophy",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Philosophy",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "philosophy",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Philosophy",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "philosophy",
+    "type": "research"
+  },
+  {
+    "name": "Physical Education",
+    "faculty": "Education",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "physical-education",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Physics",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "physics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Physics",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "physics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Physics",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "physics",
+    "type": "research"
+  },
+  {
+    "name": "Political Science",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "political-science",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Political Science",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "political-science",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Political Science",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "political-science",
+    "type": "research"
+  },
+  {
+    "name": "Process Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "process-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Process Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "process-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Process Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "process-engineering",
+    "type": "research"
+  },
+  {
+    "name": "Psychology",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "Psychology",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Psychology",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "Psychology",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Psychology",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "Psychology",
+    "type": "research"
+  },
+  {
+    "name": "Public Policy",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "public-policy",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Public Policy",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "public-policy",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Public Policy",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "public-policy",
+    "type": "research"
+  },
+  {
+    "name": "Religious Studies",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "religious-studies",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Religious Studies",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "religious-studies",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Religious Studies",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "religious-studies",
+    "type": "research"
+  },
+  {
+    "name": "Scientific Computing",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "scientific-computing",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Scientific Computing",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "scientific-computing",
+    "type": "research"
+  },
+  {
+    "name": "Social Work",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "social-work",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Social Work",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "social-work",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Social Work",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "social-work",
+    "type": "research"
+  },
+  {
+    "name": "Sociology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BA",
+    "program": "Bachelor of Arts (B.A.)",
+    "level": "bachelor",
+    "slug": "sociology",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Sociology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "MA",
+    "program": "Master of Arts (M.A.)",
+    "level": "masters",
+    "slug": "sociology",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Sociology",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "sociology",
+    "type": "research"
+  },
+  {
+    "name": "Software Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "software-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Software Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "software-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Software Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "software-engineering",
+    "type": "research"
+  },
+  {
+    "name": "Special Education",
+    "faculty": "Education",
+    "degree": "BEd",
+    "program": "Bachelor of Education (B.Ed.)",
+    "level": "bachelor",
+    "slug": "special-education",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Statistics",
+    "faculty": "Science",
+    "degree": "BSc",
+    "program": "Bachelor of Science (B.Sc.)",
+    "level": "bachelor",
+    "slug": "statistics",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Statistics",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "statistics",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Statistics",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "statistics",
+    "type": "research"
+  },
+  {
+    "name": "Sustainable Aquaculture",
+    "faculty": "Science",
+    "degree": "MSc",
+    "program": "Master of Science (M.Sc.)",
+    "level": "masters",
+    "slug": "sustainable-aquaculture",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Telecommunications Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "BEng",
+    "program": "Bachelor of Engineering (B.Eng.)",
+    "level": "bachelor",
+    "slug": "telecommunications-engineering",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Telecommunications Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "MEng",
+    "program": "Master of Engineering (M.Eng.)",
+    "level": "masters",
+    "slug": "telecommunications-engineering",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Telecommunications Engineering",
+    "faculty": "Engineering and Applied Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "telecommunications-engineering",
+    "type": "research"
+  },
+  {
+    "name": "Theatre",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BFA",
+    "program": "Bachelor of Fine Arts (B.FA.)",
+    "level": "bachelor",
+    "slug": "theatre",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Veterinary Medicine",
+    "faculty": "Medicine and Pharmacy",
+    "degree": "DVM",
+    "program": "Doctor of Veterinary Medicine (D.VM.)",
+    "level": "bachelor",
+    "slug": "veterinary-medicine",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Veterinary Science",
+    "faculty": "Science",
+    "degree": "BVSc",
+    "program": "Bachelor of Veterinary Science (B.VSc.)",
+    "level": "bachelor",
+    "slug": "veterinary-science",
+    "type": "undergraduate"
+  },
+  {
+    "name": "Veterinary Science",
+    "faculty": "Science",
+    "degree": "MVSc",
+    "program": "Master of Veterinary Science (M.VSc.)",
+    "level": "masters",
+    "slug": "veterinary-science",
+    "type": "postgraduate"
+  },
+  {
+    "name": "Veterinary Science",
+    "faculty": "Science",
+    "degree": "PhD",
+    "program": "Doctor of Philosophy (Ph.D.)",
+    "level": "doctorate",
+    "slug": "veterinary-science",
+    "type": "research"
+  },
+  {
+    "name": "Visual Arts",
+    "faculty": "Arts, Humanities and Social Sciences",
+    "degree": "BFA",
+    "program": "Bachelor of Fine Arts (B.FA.)",
+    "level": "bachelor",
+    "slug": "visual-arts",
+    "type": "undergraduate"
+  }
+]

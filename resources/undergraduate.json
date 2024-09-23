@@ -1,0 +1,65 @@
+[
+  { "degree": "BA", "code": "bs", "name": "Bachelor of Arts (B.A.)" },
+  { "degree": "BEd", "code": "bed", "name": "Bachelor of Education (B.Ed.)" },
+  { "degree": "BSc", "code": "bsc", "name": "Bachelor of Science (B.Sc.)" },
+  {
+    "degree": "BEng",
+    "code": "beng",
+    "name": "Bachelor of Engineering (B.Eng.)"
+  },
+  { "degree": "BSN", "code": "bsn", "name": "Bachelor in Nursing (B.SN.)" },
+  {
+    "degree": "BBA",
+    "code": "bba",
+    "name": "Bachelor of Business Administration (B.BA.)"
+  },
+  {
+    "degree": "BMS",
+    "code": "bms",
+    "name": "Bachelor of Management Studies (B.MS.)"
+  },
+  {
+    "degree": "BComm",
+    "code": "bcomm",
+    "name": "Bachelor of Commerce (B.Comm.)"
+  },
+  { "degree": "LLB", "code": "llb", "name": "Bachelor of Laws  (LL.B.)" },
+  { "degree": "BFA", "code": "bfa", "name": "Bachelor of Fine Arts (B.FA.)" },
+  {
+    "degree": "BArch",
+    "code": "barch",
+    "name": "Bachelor of Architecture (B.Arch.)"
+  },
+  {
+    "degree": "BVSc",
+    "code": "bvsc",
+    "name": "Bachelor of Veterinary Science (B.VSc.)"
+  },
+  {
+    "degree": "BDS",
+    "code": "bds",
+    "name": "Bachelor of Dental Surgery (BDS)"
+  },
+  {
+    "degree": "BMed",
+    "code": "bmed",
+    "name": "Bachelor of Medicine and Surgery (B.Med.)"
+  },
+  {
+    "degree": "BPharm",
+    "code": "bpharm",
+    "name": "Bachelor of Pharmacy (B.Pharm.)"
+  },
+  {
+    "degree": "DPharm",
+    "code": "dpharm",
+    "name": "Doctor of Pharmacy (D.Pharm.)"
+  },
+  { "degree": "MD", "code": "md", "name": "Doctor of Medicine (M.D.)" },
+
+  {
+    "degree": "DVM",
+    "code": "dvm",
+    "name": "Doctor of Veterinary Medicine (D.VM.)"
+  }
+]

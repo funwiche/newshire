@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Science",
+    "slug": "science",
+    "image": "/sliders/science.jpg",
+    "excerpt": "Faculty of Science offers a diverse range of programmes designed to provide the perfect gateway to your future career. We pride ourselves in the flexibility of our courses, allowing each individual student to be the architect of their university experience. We are proud to boast a combination of innovative teaching and cutting edge research.",
+    "desc": "<p>If you are a high school student considering future studies, the Faculty of Science is the scientific training ground for all undergraduate and graduate students. We are committed to effective teaching, as exhibited through the delivery of quality educational programs for science students. The Faculty of Science is also dedicated to the pursuit of high quality research, fostering economic development through cooperative research and technology transfer with the private sector.</p><p>Our 17,500 alumni are seasoned scientific explorers and problem solvers in demand by science-based industries throughout the country.</p>"
+  },
+  {
+    "name": "Business",
+    "slug": "business",
+    "image": "/sliders/business.jpg",
+    "excerpt": "Our students’ future careers are our greatest priority. Strong industry links help us to bring the real world into the classroom and offer unrivalled employment-related opportunities alongside professional skills development.",
+    "desc": "<p>On the eastern-most edge of UK lies a province rich with possibilities and which cultivates discoveries.</p><p>St Andrews is the first in Britain to greet the dawn each day. It's a tradition of innovation and leadership that inspires and guides everything we do.</p><p>We were the first business school in Scotland to launch a co-operative undergraduate business degree. Our commerce program was the first business degree in Scotland to receive national accreditation. In 2002, we became the first business school in Scotland to achieve the world's most prestigious international accreditation. And in 2018, we created Scotland's first MBA in social enterprise and entrepreneurship.</p><p>Like the wild, ever changing natural environment that surrounds us and upon which the province's culture and history are built, the Faculty of Business Administration continually grows and adapts.</p><p>From our early days as a small school with a single program to our current status as a recognized leader in Scotish business and management education, we remain committed to cultivating a vibrant community of students, faculty and staff who seek excellence in all they do. We enable an environment in which leading the way is more than words on paper &ndash; it's built into the very fabric of who we are.</p><p>It's in our nature.</p>"
+  },
+  {
+    "name": "Education",
+    "slug": "education",
+    "image": "/sliders/education.jpg",
+    "excerpt": "We offer a range of prestigious courses in Education and will prepare you with the knowledge, skills and understanding that you need to make a difference in society. The Faculty of Education can help you to fulfil your aspirations. ",
+    "desc": "<p>Professionals with degrees in education work as teachers or in school administration, curriculum design, or education policy.</p><p>The pursuit of learning, teaching and research changes lives, it affects people and can help communities grow. Our programs are focused around teaching and learning, continuing teacher education, and education research.</p><p>Whether you choose to be a classroom teacher, focused on music, special education or STEM, or perhaps become a counselor or a leader, there&#39;s no better place than the Faculty of Education to help you find your way.</p>"
+  },
+  {
+    "name": "Engineering and Applied Science",
+    "slug": "engineering-and-applied-science",
+    "image": "/sliders/engineering.jpg",
+    "excerpt": "We offer a range of specialised undergraduate and postgraduate degree courses in Engineering and Mathematics. These are delivered by academics with a vast array of experience in both teaching and research.",
+    "desc": "Take North UK's top ocean and naval architectural engineering program and the only co-operative program in this discipline in the world. Add that we are one of the first universities in Scotland to offer process engineering. Combine that with premier undergraduate programs in civil, computer, electrical and mechanical engineering, and a diverse range of top-rate master’s and doctoral programs. Situate the school in one of the most beautiful, pristine locations in the world on the edge of the North UK."
+  },
+  {
+    "name": "Arts, Humanities and Social Sciences",
+    "slug": "arts-humanities-and-social-sciences",
+    "image": "/sliders/arts.jpg",
+    "excerpt": "At the Faculty of Arts, Humanities & Social Sciences, we firmly believe that education cultivates your understanding, abilities, expertise, and self-assurance to enact positive change on a global scale. Our commitment lies in offering forward-thinking undergraduate and postgraduate degrees, designed to prepare you to grasp and tackle the world's most urgent challenges.",
+    "desc": "<p>Students and researchers in our faculty explore the evolution of human knowledge and societies, how we got to where we are &ndash; and where we might be going.</p><p>Pursuing a degree in the Humanities &amp; Social Sciences equips students to understand the complex and pressing issues facing our society now and in the past; locally, national and internationally.</p>"
+  },
+  {
+    "name": "Health and Medicine",
+    "slug": "health-and-medicine",
+    "image": "/sliders/health-and-medicine.jpg",
+    "excerpt": "The Faculty of Medicine and Pharmacy offers a portfolio of undergraduate and postgraduate courses in the biomedical and life sciences as well as medical practice, whether you aspire to a career in the biomedical, pharmaceutical, Nursing or medical profession.",
+    "desc": "<p>Our Faculty of Medicine and Pharmacy is committed to providing the highest standard of medical education and supporting health research with the goal of advancing the health of the people and communities we serve.</p><p>We are leaders in rural medical education and have received national and international awards and recognition. As the only medical school in Newfoundland and Labrador, research that focuses on the need of our communities is a priority. Ground-breaking research has provided important medical discoveries, which have led to improved medical interventions and patient care.</p>"
+  }
+]

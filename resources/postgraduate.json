@@ -1,0 +1,53 @@
+[
+  { "degree": "MA", "code": "ma", "name": "Master of Arts (M.A.)" },
+  { "degree": "MEd", "code": "med", "name": "Master of Education (M.Ed.)" },
+  { "degree": "MSc", "code": "msc", "name": "Master of Science (M.Sc.)" },
+  {
+    "degree": "MEng",
+    "code": "meng",
+    "name": "Master of Engineering (M.Eng.)"
+  },
+  { "degree": "MSN", "code": "msn", "name": "Master in Nursing (M.SN.)" },
+  {
+    "degree": "MBA",
+    "code": "mba",
+    "name": "Master of Business Administration (M.BA.)"
+  },
+  {
+    "degree": "MMS",
+    "code": "mms",
+    "name": "Master of Management Studies (M.MS.)"
+  },
+  {
+    "degree": "MComm",
+    "code": "mcomm",
+    "name": "Master of Commerce (M.Comm.)"
+  },
+  { "degree": "LLM", "code": "llm", "name": "Master of Laws  (LL.M.)" },
+  { "degree": "MFA", "code": "mfa", "name": "Master of Fine Arts (M.FA.)" },
+  {
+    "degree": "MArch",
+    "code": "march",
+    "name": "Master of Architecture (M.Arch.)"
+  },
+  {
+    "degree": "MOHS",
+    "code": "mohs",
+    "name": "Master of Occupational Health and Safety (MOHS)"
+  },
+  {
+    "degree": "MVSc",
+    "code": "mvsc",
+    "name": "Master of Veterinary Science (M.VSc.)"
+  },
+  {
+    "degree": "MPharm",
+    "code": "mpharm",
+    "name": "Master of Pharmacy (M.Pharm.)"
+  },
+  {
+    "degree": "PhD",
+    "code": "phd",
+    "name": "Doctor of Philosophy (Ph.D.)"
+  }
+]

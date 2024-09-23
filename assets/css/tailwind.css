@@ -1,0 +1,248 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html,
+body {
+  background-color: #024285;
+  scroll-behavior: smooth;
+}
+/* Appearance  */
+select,
+textarea,
+input:not([type="radio"]):not([type="checkbox"]):not([type="file"]) {
+  display: block;
+  width: 100%;
+  appearance: none !important;
+  -moz-appearance: none !important;
+  -webkit-appearance: none !important;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button,
+::-webkit-calendar-picker-indicator {
+  -webkit-appearance: none !important;
+  opacity: 0 !important;
+  margin: 0;
+}
+input[type="date"]::-webkit-calendar-picker-indicator,
+input[type="time"]::-webkit-calendar-picker-indicator,
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  background: transparent;
+  position: absolute;
+  color: transparent;
+  height: auto;
+  width: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+input[type="radio"],
+input[type="checkbox"] {
+  margin-left: 4px !important;
+  margin-right: 8px !important;
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+
+.overflow-x-auto::-webkit-scrollbar {
+  display: none;
+}
+
+@layer components {
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+  .col-center {
+    @apply flex items-center justify-center flex-col;
+  }
+  .row-center {
+    @apply flex items-center justify-center flex-row;
+  }
+  .flex-end {
+    @apply flex items-center justify-end;
+  }
+  .flex-start {
+    @apply flex items-center justify-start;
+  }
+  .flex-between {
+    @apply flex items-center justify-between;
+  }
+  .grid-center {
+    @apply grid items-center justify-center;
+  }
+  .rounded-center {
+    @apply rounded-full flex-center cursor-pointer;
+  }
+  ul.listitems > li {
+    @apply pl-8 relative before:w-2 before:h-2 before:bg-error before:absolute before:top-2 before:left-3;
+  }
+  ul.listitems > li a {
+    @apply link-bold inline-block mb-1;
+  }
+  ol.listitems {
+    @apply list-decimal list-outside pl-8;
+  }
+  hr,
+  .border,
+  .border-t,
+  .border-b,
+  .border-y,
+  .border-x {
+    @apply border-black/50;
+  }
+  .default-layout {
+    .text-overline {
+      @apply tracking-wide text-xs font-semibold uppercase;
+    }
+    .table-cols-2 {
+      @apply text-sm border-y mb-6;
+    }
+    .table-cols-2 > div {
+      @apply grid  grid-cols-2 h-9 items-center gap-3 px-3;
+    }
+    .table-cols-2 > div:nth-child(odd) {
+      @apply bg-secondary;
+    }
+    .btn {
+      @apply inline-flex items-center justify-center text-sm uppercase h-14 px-8 border border-transparent hover:border-white hover:text-white hover:bg-[#22222E] text-center cursor-pointer transition-all text-white font-medium tracking-wide;
+    }
+    .container {
+      @apply mx-auto w-full max-w-screen-lg;
+    }
+    .xl {
+      @apply w-full max-w-screen-xl mx-auto;
+    }
+    .lg {
+      @apply w-full max-w-screen-lg mx-auto;
+    }
+    .md {
+      @apply w-full max-w-screen-md mx-auto;
+    }
+    .sm {
+      @apply w-full max-w-screen-sm mx-auto;
+    }
+    .xs {
+      @apply w-full max-w-screen-xs mx-auto;
+    }
+    .place-center,
+    .flex-center {
+      @apply flex items-center justify-center;
+    }
+    .link-bold {
+      @apply font-bold underline decoration-2 underline-offset-4 hover:decoration-4;
+    }
+    .subheading,
+    h2.subheading {
+      @apply text-3xl sm:text-4xl font-thin mt-4;
+    }
+    .content {
+      @apply text-sm sm:text-base;
+    }
+    .content p,
+    .content ul,
+    .content ol {
+      @apply mb-5;
+    }
+    .content h2 {
+      @apply text-3xl sm:text-4xl font-thin mt-8 mb-5;
+    }
+    .content h3 {
+      @apply font-bold text-lg sm:text-2xl mt-8 mb-4;
+    }
+    .content h4 {
+      @apply font-bold  sm:text-lg;
+    }
+    .content h5,
+    .content h6 {
+      @apply font-bold;
+    }
+    .content a {
+      @apply font-bold underline decoration-2 underline-offset-4 hover:decoration-4;
+    }
+    .content a.nounderline {
+      @apply no-underline font-normal hover:underline hover:decoration-1;
+    }
+
+    .content ul > li {
+      @apply pl-8 relative before:w-2 before:h-2 before:bg-error before:absolute before:top-2 before:left-3;
+    }
+    .content ul ul > li {
+      @apply pl-16 before:left-12;
+    }
+    .content ol {
+      @apply list-decimal list-outside pl-8;
+    }
+    .content ol > li {
+      @apply pb-2;
+    }
+    .textinput {
+      @apply border outline-none rounded-none px-3  outline-offset-0 border-black/40 placeholder:text-accent;
+    }
+    .textinput.focus {
+      @apply border-blue-700 focus:outline-4 focus:outline-blue-300;
+    }
+    .textinput.error {
+      @apply border-red-700 focus:outline-4 focus:outline-red-700/60;
+    }
+    input.textinput {
+      @apply h-12;
+    }
+  }
+
+  .auth-layout {
+    .container {
+      @apply w-full max-w-screen-md  mx-auto;
+    }
+    .btn {
+      @apply h-8 bg-black/25 hover:bg-black/20 px-8 flex-center text-xs font-semibold;
+    }
+    button.btn:disabled {
+      @apply opacity-50 hover:bg-black/25 cursor-no-drop;
+    }
+    textarea,
+    select,
+    input:not([type="radio"]):not([type="checkbox"]):not([type="file"]) {
+      @apply placeholder:text-accent placeholder:text-xs text-xs py-1 outline-none bg-white;
+    }
+
+    .textfield {
+      @apply relative flex items-center border outline-none outline-offset-0 border-zinc-400 bg-white;
+    }
+    .textfield.focus {
+      @apply border-info outline-info/40 outline-4;
+    }
+    .textfield.error {
+      @apply border-error hover:border-error;
+    }
+    .textfield.focus.error {
+      @apply border-error outline-error/40;
+    }
+    .textfield input {
+      @apply h-7 px-2;
+    }
+    .textfield select {
+      @apply h-7 px-2 flex-1 text-xs rounded-[10px] outline-none;
+    }
+    .textfield textarea {
+      @apply resize-none text-sm px-2 py-2;
+    }
+    .title {
+      @apply text-2xl sm:text-3xl font-serif font-semibold mb-4;
+    }
+    .subtitle {
+      @apply max-sm:text-sm mb-6 font-semibold;
+    }
+    .btn-outline {
+      @apply px-8 h-10 inline-flex items-center border border-primary text-primary hover:bg-info/10 text-xs font-bold;
+    }
+    .btn-outline:disabled {
+      @apply opacity-50 hover:bg-transparent cursor-no-drop;
+    }
+    .card {
+      @apply border border-white bg-accent;
+    }
+  }
+}
