@@ -6,7 +6,7 @@
         class="flex items-start gap-4 p-4 sm:p-8"
         :class="{ 'opacity-50 pointer-events-none': !completed }"
       >
-        <input type="checkbox" class="mt-0.5" v-model="check" />
+        <input type="checkbox" class="mt-2" v-model="check" />
         <div class="flex-1 text-sm font-medium">
           <p class="pb-4">
             I hereby declare on my honour that this information is correct and
