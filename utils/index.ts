@@ -1,7 +1,8 @@
 export const $app = {
   iso: "NU",
   name: "Newshire University",
-  email: "admissions@newshire.co.uk",
+  email: "info@dencologistics.com",
+  // email: "admissions@newshire.co.uk",
   host: "newshire.co.uk",
   domain: "www.newshire.co.uk",
   phone: "+44 (0)1334 47 9191",
