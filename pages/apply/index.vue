@@ -27,7 +27,10 @@
       </div>
       <div>Mode of Study: <b>Full-time</b></div>
       <div>
-        Status: <b class="capitalize">{{ user.status }}</b>
+        Status:
+        <span class="capitalize text-success font-black">
+          {{ user.status }}
+        </span>
       </div>
     </div>
     <Divider />
