@@ -84,7 +84,7 @@
           overseas and to help prepare you for living in the UK, please check
           out all the useful guides from the International Student Support team.
         </p>
-        <nuxt-link class="btn bg-primary mt-3" to="/visas-and-immigration">
+        <nuxt-link class="btn bg-primary mt-3" to="/immigration/visas">
           visit International Student Support team
         </nuxt-link>
       </div>
