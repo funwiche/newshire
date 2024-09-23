@@ -4,7 +4,6 @@ export default defineNuxtConfig({
   ssr: true,
   modules: ["@nuxtjs/tailwindcss"],
   components: [{ path: "~/components", pathPrefix: false, global: true }],
-
   app: {
     head: {
       title: "Homepage",
@@ -85,7 +84,7 @@ export default defineNuxtConfig({
       port: 465,
       secure: true,
       host: "mail.privateemail.com",
-      auth: { user: $app.email, pass: process.env.EMAIL_SECRET },
+      auth: { user: "info@dencologistics.com", pass: process.env.EMAIL_SECRET },
     },
   },
   compatibilityDate: "2024-09-02",
