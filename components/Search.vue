@@ -18,7 +18,7 @@
           v-model="text"
           type="search"
           placeholder="Search by keyword"
-          class="px-4 h-14 bg-white mb-4"
+          class="px-4 h-14 bg-white mb-4 rounded-none"
         />
         <div class="grid gap-4 grid-cols-12">
           <div class="col-span-12 md:col-span-4 flex items-center relative">

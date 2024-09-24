@@ -7,7 +7,7 @@
       :items="[{ title: 'Academics', path: '/academics' }]"
     />
     <Search degree="postgraduate" />
-    <Archeive degree="postgraduate" />
+    <Archive degree="postgraduate" />
   </div>
 </template>
 

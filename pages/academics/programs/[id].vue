@@ -8,8 +8,8 @@
       { title: 'Programs', path: '/academics/programs' },
     ]"
   />
-  <section class="container content max-lg:px-4 md:flex gap-12">
-    <section class="flex-1">
+  <section class="container content md:flex gap-12">
+    <section class="flex-1 max-lg:px-4">
       <p v-html="item?.excerpt" />
       <h3>Description of program</h3>
       <div v-html="item?.desc" />
@@ -18,12 +18,20 @@
       <h3>Career Propects</h3>
       <div v-html="item?.career" />
     </section>
-    <section class="md:w-[400px] bg-secondary p-6 md:p-10 pt-0 md:pt-0 text-sm">
+    <section class="md:w-[400px] bg-secondary p-6 md:p-10 pt-1 md:pt-0 text-sm">
       <h3>Program Information</h3>
-      <h6>Degrees Offered:</h6>
-      <p>{{ item?.degree }}</p>
-      <h6>Duration (Full-time students):</h6>
-      <p>Bachelor's: 3-4 years<br />Master's: 1 year <br />PhD: 3 years</p>
+      <h6 class="mb-2">Degrees Offered:</h6>
+      <ul>
+        <li :key="k" v-for="[k, v] in Object.entries(item?.program)">
+          {{ v }}
+        </li>
+      </ul>
+      <h6 class="mb-2">Duration (Full-time students):</h6>
+      <ul>
+        <li :key="k" v-for="[k, v] in Object.entries(item?.duration)">
+          <span class="capitalize">{{ k }}:</span> {{ v }}
+        </li>
+      </ul>
       <h6>Department:</h6>
       <p>{{ item?.department }}</p>
       <h6>Faculty:</h6>
@@ -56,7 +64,7 @@
 </template>
 
 <script setup lang="ts">
-import programs from "~/resources/programs";
+import programs from "~/resources/programs.json";
 const route = useRoute();
 const item: any = computed(
   () => programs.find((el) => el.slug == route.params.id) || []

@@ -28,7 +28,7 @@
 
 <script setup lang="ts">
 const route = useRoute();
-import countries from "~/assets/yourcountries.json";
+import countries from "~/resources/yourcountries.json";
 const item: any = computed(() =>
   countries.find((el) => el.path === route.params.id)
 );

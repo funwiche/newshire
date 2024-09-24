@@ -11,10 +11,7 @@
       required
       v-model="post.program.degree"
       label="Degree"
-      :items="[
-        'Bachelor\'s degree (Undergruaduate)',
-        'Master\'s degree (Postgruaduate)',
-      ]"
+      :items="degrees"
     />
     <Select
       required
@@ -28,25 +25,22 @@
 </template>
 
 <script setup lang="ts">
-import courses from "@/assets/courses.json";
+import courses from "@/resources/courses";
 definePageMeta({
   layout: "auth",
   middleware: "auth",
   title: "Study programme",
 });
+const degrees = [
+  "Bachelor's degree (Undergruaduate)",
+  "Master's degree (Postgruaduate)",
+];
 const router = useRouter();
 const user = useAuthUser();
 const post: any = ref({
   program: user.value.program
     ? { ...user.value.program }
-    : {
-        name: "",
-        degree: "",
-        faculty: "",
-        year: "2024 - 2025",
-        mode: "Full-time",
-        duration: "",
-      },
+    : { name: "", degree: "", year: "2024 - 2025" },
 });
 const items = computed(() =>
   courses.filter((el) => el.degree === post.value.program.degree)

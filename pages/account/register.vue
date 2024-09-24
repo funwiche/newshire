@@ -77,7 +77,7 @@
 </template>
 
 <script setup lang="ts">
-import countries from "@/assets/countries.json";
+import countries from "@/resources/countries.json";
 definePageMeta({
   layout: "auth",
   middleware: "guest",

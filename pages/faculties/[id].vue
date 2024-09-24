@@ -11,12 +11,17 @@
     :desc="faculty?.excerpt || ''"
   />
   <Heading title="Our" subtitle="Courses" />
-  <Program :items="items" />
+  <div class="container max-lg:px-4">
+    <div class="mb-3 text-xs sm:text-sm">
+      Showing {{ items.length }} programs
+    </div>
+    <Program :items="items" />
+  </div>
 </template>
 
 <script setup lang="ts">
 import faculties from "~/resources/faculties.json";
-import programs from "~/resources/programs";
+import programs from "~/resources/programs.json";
 const route = useRoute();
 const faculty = computed(() =>
   faculties.find((el) => el.slug == route.params.id)

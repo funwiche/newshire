@@ -6,7 +6,7 @@
     :items="[{ title: 'Academics', path: '/academics' }]"
   />
   <Search />
-  <Archeive />
+  <Archive />
 </template>
 
 <script setup lang="ts">

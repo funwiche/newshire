@@ -1,10 +1,10 @@
 <template>
   <section class="bg-cover bg-right bg-[url('/sliders/banner7.webp')]">
-    <div class="bg-black/70 px-4">
-      <div class="h-[430px] md:h-[600px] container flex items-center">
-        <div class="text-white max-w-[600px]">
-          <Heading title="Life at" :subtitle="$app.name" />
-          <p class="md:text-xl mb-6">
+    <div class="text-white bg-black/70 py-16 lg:py-20">
+      <Heading title="Life at" :subtitle="$app.name" />
+      <div class="flex items-center container max-lg:px-4">
+        <div class="max-w-screen-sm">
+          <p class="font-serif pb-6">
             Going to university is about much more than getting a qualification,
             it’s also the chance to enjoy an exciting social life, gain some
             independence and make the most of the new opportunities available.

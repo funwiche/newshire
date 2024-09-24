@@ -6,8 +6,8 @@
       autoplay
       loop
       muted
-      :controls="false"
       preload="auto"
+      playsinline
       src="/playback/background-video.mp4"
       class="w-full h-full object-cover pointer-events-none z-0"
     />

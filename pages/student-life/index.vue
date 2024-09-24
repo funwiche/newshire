@@ -23,10 +23,10 @@
     <section
       class="bg-cover bg-center bg-[url('/sliders/escape-the-city.jpg')]"
     >
-      <div class="bg-black/70 px-4">
-        <div class="h-[430px] md:h-[600px] container flex items-center">
-          <div class="text-white max-w-screen-md">
-            <Heading title="Living in" :subtitle="$app.country" />
+      <div class="text-white bg-black/70 py-16 lg:py-20">
+        <Heading title="Living in" :subtitle="$app.country" />
+        <div class="flex items-center container max-lg:px-4">
+          <div class="max-w-screen-sm">
             <p class="font-serif pb-6">
               The west of Scotland is an area defined by contrast. Rich in
               tradition yet culturally diverse; home to historic towns and
@@ -34,17 +34,13 @@
               iconic historic sites and surrounded by beautiful countryside,
               there really is something for everyone.
             </p>
-            <div class="grid sm:grid-cols-2 gap-x-8">
-              <nuxt-link
-                v-for="n in scotland"
-                :key="n.path"
-                :to="n.path"
-                class="flex items-center text-success bt border-zinc-500 py-4"
-              >
-                <div class="flex-1 underline font-bold">{{ n.title }}</div>
-                <i class="fa-solid fa-right-long text-xs" />
-              </nuxt-link>
-            </div>
+            <ul class="listitems">
+              <li v-for="n in scotland" :key="n.path" class="mb-2">
+                <nuxt-link :to="n.path" class="text-success">
+                  {{ n.title }}
+                </nuxt-link>
+              </li>
+            </ul>
           </div>
         </div>
       </div>

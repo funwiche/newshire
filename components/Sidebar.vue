@@ -5,9 +5,12 @@
     </div>
     <aside
       :class="open ? 'translate-x-0' : 'translate-x-full'"
-      class="fixed top-0 right-0 transition-transform duration-500 z-50 flex flex-col h-screen bg-primary text-white w-96 max-w-[90vw] shadow-2xl overflow-y-auto"
+      class="fixed top-0 right-0 transition-transform duration-500 z-50 flex flex-col h-screen bg-primary text-white w-96 max-w-[90vw] shadow-2xl overflow-y-auto pb-24"
     >
-      <div @click="toggle" class="h-12 flex-end cursor-pointer px-4">
+      <div
+        @click="toggle"
+        class="h-12 flex-end cursor-pointer px-4 bg-primary sticky top-0"
+      >
         <i class="fa-light fa-xmark text-2xl" />
       </div>
       <nuxt-link
