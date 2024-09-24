@@ -7,7 +7,7 @@
       src="/sliders/contact_us.jpg"
     />
     <section class="container md:flex gap-12 flex-1">
-      <form @submit.prevent="submit" class="flex-1 p-8 sm:p-12 md:p-16 lg:pl-0">
+      <form @submit.prevent="submit" class="flex-1 p-6 sm:p-12 md:p-16 lg:pl-0">
         <h3 class="text-primary text-lg font-black mb-5">Contact Us Form</h3>
         <TextInput v-model="post.name" label="Full name" />
         <TextInput v-model="post.email" type="email" label="Email address" />
@@ -23,7 +23,7 @@
         </button>
       </form>
       <div
-        class="md:w-[480px] bg-secondary text-sm grid gap-5 p-8 sm:p-12 md:p-16"
+        class="md:w-[480px] bg-secondary text-sm grid gap-5 p-6 sm:p-12 md:p-16"
       >
         <div>
           <h3 class="text-primary text-lg font-black">Address</h3>
