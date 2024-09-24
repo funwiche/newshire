@@ -7,60 +7,58 @@
       src="/sliders/contact_us.jpg"
     />
     <section class="container md:flex gap-12 flex-1">
-      <form class="flex-1" @submit.prevent="submit">
-        <div class="p-8 sm:p-12 md:px-0 md:py-16 max-w-screen-sm max-md:xs">
-          <h3 class="text-primary text-lg font-black mb-5">Contact Us Form</h3>
-          <TextInput v-model="post.name" label="Full name" />
-          <TextInput v-model="post.email" type="email" label="Email address" />
-          <TextInput v-model="post.phone" type="tel" label="Phone number" />
-          <TextInput v-model="post.message" textarea label="Message" />
-          <Alert v-model="error" />
-          <Alert v-model="success" success />
-          <button
-            class="flex-center bg-[#014997] hover:bg-primary text-white text-sm font-bold h-12 w-1/2 mt-2"
-          >
-            <Loader v-if="loading" />
-            <span v-else>Submit</span>
-          </button>
-        </div>
+      <form @submit.prevent="submit" class="flex-1 p-8 sm:p-12 md:p-16 lg:pl-0">
+        <h3 class="text-primary text-lg font-black mb-5">Contact Us Form</h3>
+        <TextInput v-model="post.name" label="Full name" />
+        <TextInput v-model="post.email" type="email" label="Email address" />
+        <TextInput v-model="post.phone" type="tel" label="Phone number" />
+        <TextInput v-model="post.message" textarea label="Message" />
+        <Alert v-model="error" />
+        <Alert v-model="success" success />
+        <button
+          class="flex-center bg-[#014997] hover:bg-primary text-white text-sm font-bold h-12 w-1/2 mt-2"
+        >
+          <Loader v-if="loading" />
+          <span v-else>Submit</span>
+        </button>
       </form>
-      <div class="w-[480px] bg-secondary text-sm">
-        <div class="p-8 sm:p-12 md:p-16 max-md:xs">
-          <div class="mb-5">
-            <h3 class="text-primary text-lg font-black">Address</h3>
-            <div class="opacity-74">
-              {{ $app.name }}, <br />
-              P.O. Box 4920<br />
-              {{ $app.city }}, NL A1C 5R3,<br />
-              {{ $app.country }}, United Kingdom
-            </div>
+      <div
+        class="md:w-[480px] bg-secondary text-sm grid gap-5 p-8 sm:p-12 md:p-16"
+      >
+        <div>
+          <h3 class="text-primary text-lg font-black">Address</h3>
+          <div class="opacity-74">
+            {{ $app.name }}, <br />
+            P.O. Box 4920<br />
+            {{ $app.city }}, NL A1C 5R3,<br />
+            {{ $app.country }}, United Kingdom
           </div>
-          <div class="mb-5">
-            <h3 class="text-primary text-lg font-black">Phone</h3>
-            <a :href="`tel:${$app.phone}`" class="link-bold">
-              {{ $app.phone }}
-            </a>
+        </div>
+        <div>
+          <h3 class="text-primary text-lg font-black">Phone</h3>
+          <a :href="`tel:${$app.phone}`" class="link-bold">
+            {{ $app.phone }}
+          </a>
+        </div>
+        <div>
+          <h3 class="text-primary text-lg font-black">Email</h3>
+          <a :href="`mailto:${$app.email}`" class="link-bold">
+            {{ $app.email }}
+          </a>
+        </div>
+        <div>
+          <h3 class="text-primary text-lg font-black">Opening hours</h3>
+          <div class="opacity-74">
+            Mon - Fri: 8.30am to 5pm <br />
+            Sat - Sun: Closed
           </div>
-          <div class="mb-5">
-            <h3 class="text-primary text-lg font-black">Email</h3>
-            <a :href="`mailto:${$app.email}`" class="link-bold">
-              {{ $app.email }}
-            </a>
-          </div>
-          <div class="mb-5">
-            <h3 class="text-primary text-lg font-black">Opening hours</h3>
-            <div class="opacity-74">
-              Mon - Fri: 8.30am to 5pm <br />
-              Sat - Sun: Closed
-            </div>
-          </div>
-          <div
-            class="font-serif italic text-sm opacity-65 border-y text-justify p-3"
-          >
-            If you call out of hours, you will be transferred to a security
-            officer who will take your details. An appropriate member of staff
-            will then call you back to offer further assistance.
-          </div>
+        </div>
+        <div
+          class="font-serif italic text-sm opacity-65 border-y text-justify p-3"
+        >
+          If you call out of hours, you will be transferred to a security
+          officer who will take your details. An appropriate member of staff
+          will then call you back to offer further assistance.
         </div>
       </div>
     </section>
