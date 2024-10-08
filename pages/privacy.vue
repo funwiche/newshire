@@ -5,7 +5,7 @@
   <section class="content container py-6 max-lg:px-4">
     <p>
       The Information Access and Privacy (IAP) Office supports transparency and
-      accountability at Memorial University, guided in particular by the Privacy
+      accountability at the {{ $app.name }}, guided in particular by the Privacy
       and Information Request policies. The IAP Office offers strategic and
       day-to-day advisory services on information access and privacy:
     </p>
@@ -23,7 +23,7 @@
     </ul>
 
     <p class="mt-4">
-      The IAP Office assists Memorial University in compliance with the
+      The IAP Office assists the {{ $app.name }} in compliance with the
       provincial
       <em>
         Access to Information and Protection of Privacy Act, 2015 (ATIPPA)
