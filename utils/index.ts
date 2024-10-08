@@ -5,9 +5,9 @@ export const $app = {
   // email: "admissions@newshire.co.uk",
   host: "newshire.co.uk",
   domain: "www.newshire.co.uk",
-  phone: "+44 (0)1334 47 9191",
+  phone: "+44 (0)1620 89 3344",
   baseUrl: "https://newshire.co.uk",
-  city: "St Andrew",
+  city: "North Berwick", // East Lothian
   country: "Scotland",
 };
 

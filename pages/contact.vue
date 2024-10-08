@@ -29,8 +29,8 @@
           <h3 class="text-primary text-lg font-black">Address</h3>
           <div class="opacity-74">
             {{ $app.name }}, <br />
-            P.O. Box 4920<br />
-            {{ $app.city }}, NL A1C 5R3,<br />
+            35 High St<br />
+            {{ $app.city }} EH39 4HH,<br />
             {{ $app.country }}, United Kingdom
           </div>
         </div>
