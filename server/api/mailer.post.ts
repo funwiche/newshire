@@ -12,9 +12,11 @@ export default defineEventHandler(async (event) => {
     <div style="font-size:14px;margin-bottom:8px;"><strong>Message: </strong>${message}`;
     const subject = "Contact us";
     const from = `${name} <${$app.email}>`;
+    const replyTo = `"${name} " <${email}>`;
+    const to = `"Admissions Team" <${$app.email}>`;
     await nodemailer
       .createTransport(mailer)
-      .sendMail({ from, to: $app.email, replyTo: email, subject, html });
+      .sendMail({ from, to, replyTo, subject, html });
     return ["Your message has been sent successfully!", null];
   } catch (error: any) {
     console.log(error.message);
