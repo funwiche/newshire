@@ -29,7 +29,7 @@
           <h3 class="text-primary text-lg font-black">Address</h3>
           <div class="opacity-74">
             {{ $app.name }}, <br />
-            231 Grange Rd,<br />
+            232 Grange Rd,<br />
             {{ $app.city }} EH39 4QS,<br />
             {{ $app.country }}, United Kingdom
           </div>
