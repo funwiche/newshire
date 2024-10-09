@@ -73,3 +73,12 @@ export function getValidity(val: any, type = "text") {
   } else if (val.valueMissing) return "This field is required";
   else if (val.badInput) return "Bad input";
 }
+
+// Street:	35 High St
+// City/Town:	North Berwick
+// State/Province/Region:	East Lothian
+// Zip/Postal Code:	EH39 4HH
+// Phone Number:	01620 893344
+// Country:	United Kingdom
+// Latitude:	56.058441
+// Longitude:	-2.718481
