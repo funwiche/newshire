@@ -44,11 +44,11 @@
       </p>
       <h6>Application Deadline:</h6>
       <p>
-        Autumn: July 15 (starts in September)
+        Autumn: 15 July 2024 (starts in September 2024)
         <br />
-        Winter: October 15 (starts in January)
+        Winter: 15 November 2024 (starts in February 2025)
         <br />
-        Spring: January 15 (starts in April)
+        Spring: 15 February 2025 (starts in May 2025)
       </p>
       <h6>Tuition (UK Citizens):</h6>
       <p>Undergraduate: £3,050<br />Graduate: £3,650</p>
