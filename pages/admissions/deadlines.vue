@@ -17,22 +17,26 @@
       <div class="py-4 grid grid-cols-3 gap-3 border-b">
         <div>Autumn semeter</div>
         <div class="col-span-2">
-          <h6>July 15</h6>
-          <span class="opacity-75 text-xs"> Programs starts in September </span>
+          <h6>15 July2025</h6>
+          <span class="opacity-75 text-xs">
+            Programs starts in September 2025</span
+          >
         </div>
       </div>
       <div class="py-4 grid grid-cols-3 gap-3 border-b">
         <div>Winter semeter</div>
         <div class="col-span-2">
-          <h6>October 15</h6>
-          <span class="opacity-75 text-xs"> Programs starts in January </span>
+          <h6>15 November 2024</h6>
+          <span class="opacity-75 text-xs">
+            Programs starts in February 2025</span
+          >
         </div>
       </div>
       <div class="py-4 grid grid-cols-3 gap-3 border-b">
         <div>Spring semeter</div>
         <div class="col-span-2">
-          <h6>January 15</h6>
-          <span class="opacity-75 text-xs"> Programs starts in April </span>
+          <h6>15 February 2025</h6>
+          <span class="opacity-75 text-xs"> Programs starts in May 2025</span>
         </div>
       </div>
     </div>
