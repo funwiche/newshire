@@ -19,7 +19,7 @@
           class="text-4xl sm:text-5xl font-black text-white drop-shadow-xl text-center mb-4 uppercase"
         >
           <div class="mb-2">Apply for</div>
-          January 2025 Intake
+          February 2025 Intake
         </h2>
         <div class="border-4 border-warning/80 mb-4 rounded-md overflow-hidden">
           <nuxt-link
